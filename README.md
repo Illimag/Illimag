@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+UI Developer San Francisco Bay Area and Silicon Valley.
+UI/UX FIGMA/Adobe
+HTML, CSS, JavaScript
+React.JS, Angular, TypeScript
+
 <!--
 **Illimag/Illimag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
